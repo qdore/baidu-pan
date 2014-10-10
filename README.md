@@ -18,7 +18,7 @@ EXAMPLES:
 <script> pull thesis
 <script> ls thesis
 <script> ls thesis/mythesis
-<script> rn thesis
+<script> rm thesis
 ```
 
 文件默认保存在/app/bypy中
